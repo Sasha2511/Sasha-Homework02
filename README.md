@@ -7,3 +7,5 @@ Branch A Test line 03
 Branch A Test line 04
 
 Branch B Test line 05
+
+Branch B Test line 06
