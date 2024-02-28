@@ -5,3 +5,5 @@ Test line 02
 Branch A Test line 03
 
 Branch A Test line 04
+
+Branch Master Test line 07 
