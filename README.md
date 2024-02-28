@@ -9,3 +9,7 @@ Branch A Test line 04
 Branch Master Test line 07 
 
 Branch Master Test line 08
+
+Branch B Test line 05
+
+Branch B Test line 06
